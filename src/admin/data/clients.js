@@ -1,0 +1,38 @@
+export const clients = [
+  {
+    id: 1,
+    name: "Alex Imes",
+    email: "alex.imes@example.com",
+    phone: "+1 234 567 8900",
+    joined: "1/15/2024",
+    services: 5,
+    status: "Active",
+  },
+  {
+    id: 2,
+    name: "James Do",
+    email: "james.do@example.com",
+    phone: "+1 234 567 8901",
+    joined: "2/20/2024",
+    services: 3,
+    status: "Active",
+  },
+  {
+    id: 3,
+    name: "Fatima Noor",
+    email: "fatima.noor@example.com",
+    phone: "+1 234 567 8902",
+    joined: "3/11/2024",
+    services: 7,
+    status: "Active",
+  },
+  {
+    id: 4,
+    name: "Ahmed Hassan",
+    email: "ahmed.hassan@example.com",
+    phone: "+1 234 567 8903",
+    joined: "4/10/2024",
+    services: 2,
+    status: "Inactive",
+  },
+];
